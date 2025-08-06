@@ -1,0 +1,7 @@
+{
+  "name": "Smark",
+  "description": "An e-commerce platform designed to uplift small-scale businesses and artisans. It features a product catalog, shopping cart, multi-language support, and an AI-powered chatbot for customer assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

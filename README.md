@@ -1,2 +1,14 @@
-# Artisans-connects
-This is the serverless Ecommerce web app by using agentic ai for the chatbot , The main purpose of this app is to uplift the small scale businesses in local areas and also it uses voice assistants . It runs entierly in the browser and uses google gemini api for smart ai features like natural language search and personalized recommendation
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
